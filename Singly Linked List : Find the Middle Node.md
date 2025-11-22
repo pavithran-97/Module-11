@@ -80,5 +80,5 @@ print(ll.find_middle())
 <img width="497" height="232" alt="image" src="https://github.com/user-attachments/assets/ad2c55a0-daa2-4d81-98f6-4da942bedab6" />
 
 ## Result
-Thus, the Python program has been created and executed successfully to find the middle node of a singly linked list using recursion for both even 
+Thus, the Python program has been created and executed successfully to find the middle node of a singly linked list using recursion for both even and odd-length lists as per the requirement
 
